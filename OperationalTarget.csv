@@ -1,0 +1,23 @@
+﻿ID,OperationalTarget
+1,Aeroplane
+2,Agricultural
+3,Banking
+4,Communications
+5,Educational facility
+6,Government facility
+7,Industrial facility
+8,Judical
+9,Law enforcement
+10,Manufacturing
+11,Media/journalists
+12,Medical facility
+13,Mining facility
+14,Public place
+15,Residential
+16,Ship
+17,Train/Tram
+18,Airport
+19,Defence/military
+20,Diplomatic
+21,Unknown
+22,Religious/Church
